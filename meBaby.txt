@@ -1,0 +1,4 @@
+Integer i = 0;
+Long o = 1;
+String almierda = "DDDD";
+
